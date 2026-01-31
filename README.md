@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- 🔥 LOGO -->
-<img src="Tech%20Gears/download.png" alt="Tech Gear Logo" width="80" />
+<img src="Tech%20Gears/download.png" alt="Tech Gear Logo" width="60" />
 
 <br /><br />
 
